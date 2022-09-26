@@ -1,0 +1,2 @@
+table{display: flex;flex-flow: row wrap;width: 100%;}
+td{border:1px solid black;width: 25%;}
